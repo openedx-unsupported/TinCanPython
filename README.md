@@ -1,3 +1,7 @@
+🛑🛑🛑 This fork of the TinCanPython library is no longer being maintained. 🛑🛑🛑
+
+Please use the upstream [RusticiSoftware/TinCanPython](https://github.com/RusticiSoftware/TinCanPython) implementation.
+
 A Python library for implementing Tin Can API.
 
 [![Build Status](https://github.com/openedx/TinCanPython/workflows/Python%20CI/badge.svg?branch=master)](https://github.com/openedx/TinCanPython/actions?query=workflow%3A%22Python+CI%22)
